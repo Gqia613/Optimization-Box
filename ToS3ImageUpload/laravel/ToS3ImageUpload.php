@@ -1,5 +1,8 @@
 <?php
 
+// 下記コマンドでパッケージをインストールしておく
+// composer require league/flysystem-aws-s3-v3:^1.0
+
 // 画像ファイルをS3にアップロードする
 
 use Illuminate\Support\Facades\Storage;
